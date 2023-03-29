@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+:root {
+  --color-orange: #f67704;
+  --color-blue: #0a3740; 
+  --color-light: #ede3fb;
+  --color-dark: #090909;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--color-blue);
+}
+
+.color-light {
+  color: var(--color-light);
+}
+
+.bg-dark {
+  background-color: var(--color-dark);
+}
+
+.color-orange {
+  color: var(--color-orange);
+}
+
+.font-righteous {
+  font-family: 'Righteous', cursive;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-decoration {
+  text-decoration: none;
+}
+
+.font-size-14px {
+  font-size: 14px;
+}
+
+.position-relative {
+  position: relative;
+}
+
+.position-absolute {
+  position: absolute;
+}
